@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: We might consider using git so that we can maintain numerous versions of the same project and so that we can easily
+rollback changes or even create a custom mix of previous additions and versions.
